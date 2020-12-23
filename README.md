@@ -9,7 +9,7 @@ I’m a computer science and engineering graduate with an advanced post-graduate
 * Kurukshetra University: Bachelor's of Technology Computer Science 2012 GPA: 3.6/4.0
 
 **Projects** 
-Please access my projects here: https://github.com/RishikaSaini15
+Access my projects here: https://github.com/RishikaSaini15
 Please view the readme-files attached to the repositories to view my projects. 
 
 **Tools & Technology:**
