@@ -1,5 +1,5 @@
 **Professional Summary**
-I’m a computer science and engineering graduate with an advanced post-graduate diploma in banking & information technology and 2 years of professional hands-on experience in databases and application support and development. Currently, I am pursuing a Master’s in engineering in software engineering from A. James Clark School of Engineering, University of Maryland.
+I’m a computer science and engineering graduate with an advanced post-graduate diploma in banking & information technology and 2 years of professional hands-on experience in databases and application support and development. Recently, I have completed a Master’s in Engineering in Software Engineering from University of Maryland, College Park.
 
 **Education**
 * University Of Maryland, College Park: Masters Software Engineering 2020 GPA: 3.67/4.0
@@ -14,11 +14,10 @@ Please view the readme-files attached to the repositories to view my projects.
 
 **Tools & Technology:**
 **PROGRAMMING LANGUAGES:**
-R
+R/PYTHON
 SQL/PLSQL
-PYTHON
 HTML/CSS
-PHP/ BOOTSTRAP JAVASCRIPT
+PHP/BOOTSTRAP/JAVASCRIPT
 
 **DATABASES:**
 MySQL 
@@ -30,21 +29,22 @@ HP-UX
 Requirements Elicitation Requirements Analysis
 Data Analysis
 Agile Development
-Data Visualization
+Data Visualization/ Tabluea/ OpenRefine
 Information & Data Architecture
+Unit/Web Testing
 
 **OTHER TOOLS:**
 GitHub
 Oracle Forms & Reports 
 Microsoft Office Suite & Project 
-R Studio
-Cypress
-Putty
-PyCharm
-VS Code
+R Studio/OpenRefine/Rmarkdown
+Putty/sftp
+PyCharm/ 
+Cygwin/MinGW/Gdb
+VS Code/Jypiter Notebook
 Financial Oracle(Finacle) Rmarkdown
 Unix/Linux
-XAMMP
+XAMMP/Mysql Workbench
 
 **Contact**
 Email: write2rishika.saini@gmail.com
