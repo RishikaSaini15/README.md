@@ -14,37 +14,38 @@ Please view the readme-files attached to the repositories to view my projects.
 
 **Tools & Technology:**
 **PROGRAMMING LANGUAGES:**
-R/PYTHON
-SQL/PLSQL
-HTML/CSS
-PHP/BOOTSTRAP/JAVASCRIPT
+R/PYTHON,
+SQL/PLSQL,
+HTML/CSS,
+PHP/BOOTSTRAP/JAVASCRIPT.
 
 **DATABASES:**
-MySQL 
-Oracle
-SQL
-HP-UX
+MySQL, 
+Oracle,
+SQL,
+HP-UX,
+PostgreSQL.
 
 **BUSINESS ANALYSIS TECHNIQUES:**
-Requirements Elicitation Requirements Analysis
-Data Analysis
-Agile Development
-Data Visualization/ Tabluea/ OpenRefine
-Information & Data Architecture
-Unit/Web Testing
+Requirements Elicitation Requirements Analysis,
+Data Analysis,
+Agile Development,
+Data Visualization/ Tabluea/ OpenRefine,
+Information & Data Architecture,
+Unit/Web Testing.
 
 **OTHER TOOLS:**
-GitHub
-Oracle Forms & Reports 
-Microsoft Office Suite & Project 
-R Studio/OpenRefine/Rmarkdown
-Putty/sftp
-PyCharm/ 
-Cygwin/MinGW/Gdb
-VS Code/Jypiter Notebook
-Financial Oracle(Finacle) Rmarkdown
-Unix/Linux
-XAMMP/Mysql Workbench
+GitHub,
+Oracle Forms & Reports,
+Microsoft Office Suite & Project, 
+R Studio/OpenRefine/Rmarkdown,
+Putty/sftp,
+PyCharm, 
+Cygwin/MinGW/Gdb,
+VS Code/Jypiter Notebook,
+Financial Oracle(Finacle) Rmarkdown,
+Unix/Linux,
+XAMMP/Mysql Workbench.
 
 **Contact**
 Email: write2rishika.saini@gmail.com
